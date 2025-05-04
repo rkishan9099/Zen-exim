@@ -40,7 +40,7 @@ cd server
 npm install
 ```
 
-Insert Dummy Product Date
+Insert Dummy Product Data
 ```bash
 npm run migrate
 ```
